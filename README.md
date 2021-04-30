@@ -13,6 +13,9 @@
 </p>
 <p align="center">
 <a href="http://github.com/adithziva"><img title="blvckbox" src="img/3.mp4"></a>
+<video src="img/3.mp4" controls>
+  Your browser does not support the video tag.
+</video>
 </p>
 <p align="center">
 <a href="https://github.com/adithziva"><img title="Github" src="https://img.shields.io/badge/BLVCK-HACKER-brightgreen?style=for-the-badge&logo=github"></a>
