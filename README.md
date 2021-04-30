@@ -34,7 +34,7 @@
 
 ### CLONE
 ```
- pkg update && pkg upgrade -y
+ pkg update -y && pkg upgrade -y
  pkg install ruby -y
  git clone https://github.com/adithziva/Blvckbox
  ls
