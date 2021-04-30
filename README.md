@@ -4,15 +4,15 @@
 
 
 <p align="center">
-<a href="https://github.com/adithziva"><img title="Made in kunnamkullam" src="https://img.shields.io/badge/MADE%20IN-KERALA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://github.com/adithziva"><img title="Made in kerala" src="https://img.shields.io/badge/MADE%20IN-KERALA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/adithziva"><img title="Made in kunnamkullam" src="https://img.shields.io/badge/TOOL-SEEKER-green"></a>
+<a href="https://github.com/adithziva"><img title="Made in kerala" src="https://img.shields.io/badge/TOOL-SEEKER-green"></a>
 <a href="https://github.com/adithziva"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://github.com/adithziva"><img title="Maintainence" src="https://img.shields.io/badge/updated%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="http://github.com/adithziva"><img title="seeker explain" src="img/4.jpg"></a>
+<a href="http://github.com/adithziva"><img title="seeker explain" src="img/3.mp4"></a>
 </p>
 <p align="center">
 <a href="https://github.com/adithziva"><img title="Github" src="https://img.shields.io/badge/BLVCK-HACKER-brightgreen?style=for-the-badge&logo=github"></a>
