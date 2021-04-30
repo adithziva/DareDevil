@@ -84,7 +84,6 @@
 [linkedin]: #
 [whatsapp]: #
 
-# TOOL'S
 ## WARNING : 
 
 ***This tool is only for educational purpose. If you use misuse this tool for other purposes. we will not be responsible for that cases.***
