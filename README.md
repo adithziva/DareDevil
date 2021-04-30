@@ -34,14 +34,14 @@
 
 ### CLONE
 ```
-★ pkg update && pkg upgrade
-★ git clone https://github.com/adithziva/Blvckbox
-★ ls
-★ cd Blvckbox
-★ ls
-★ bash box
-★ ls
-★ bash blvckbox
+ pkg update && pkg upgrade
+ git clone https://github.com/adithziva/Blvckbox
+ ls
+ cd Blvckbox
+ ls
+ bash box
+ ls
+ bash blvckbox
 ```
 </br>
 
