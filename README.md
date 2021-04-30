@@ -4,10 +4,10 @@
 
 
 <p align="center">
-<a href="https://github.com/adithziva"><img title="Made in kerala" src="https://img.shields.io/badge/MADE%20IN-KERALA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://github.com/adithziva"><img title="Made in kerala" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/adithziva"><img title="Made in kerala" src="https://img.shields.io/badge/TOOL-SEEKER-green"></a>
+<a href="https://github.com/adithziva"><img title="Made in kerala" src="https://img.shields.io/badge/TOOL-BOX-green"></a>
 <a href="https://github.com/adithziva"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://github.com/adithziva"><img title="Maintainence" src="https://img.shields.io/badge/updated%3F-yes-green.svg"></a>
 </p>
@@ -15,7 +15,7 @@
 ![gif](img/3.gif)<br/>
 
 <p align="center">
-<a href="http://github.com/adithziva"><img title="IMG" src="img/4.gif" width="160" height="160"></a>
+<a href="http://github.com/adithziva"><img title="IMG" src="img/4.gif" width="120" height="80"></a>
 </p>
 
 <p align="center">
@@ -26,9 +26,9 @@
 <p align="center">
 <a href="https://github.com/adithziva"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=100"></a>
 <a href="https://instagram.com/mr_ziva_"><img title="Followers" src="https://img.shields.io/github/followers/adithziva?color=blue&style=flat-square"></a>
-<a href="https://github.com/adithziva"><img title="Stars" src="https://img.shields.io/github/stars/adithziva/seekerauto?color=red&style=flat-square"></a>
-<a href="https://github.com/adithziva"><img title="Forks" src="https://img.shields.io/github/forks/adithziva/seekerauto?color=red&style=flat-square"></a>
-<a href="https://github.com/adithziva"><img title="Watching" src="https://img.shields.io/github/watchers/adithziva/seekerauto?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/adithziva"><img title="Stars" src="https://img.shields.io/github/stars/adithziva/Blvckbox?color=red&style=flat-square"></a>
+<a href="https://github.com/adithziva"><img title="Forks" src="https://img.shields.io/github/forks/adithziva/Blvckbox?color=red&style=flat-square"></a>
+<a href="https://github.com/adithziva"><img title="Watching" src="https://img.shields.io/github/watchers/adithziva/Blvckbox?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/adithziva"><img title="Licence" src="https://img.shields.io/badge/NO-LICIENCE-blue.svg"></a>
 </p>
 
@@ -36,12 +36,13 @@
 ### CLONE
 ```
 ★ pkg update && pkg upgrade
-★ pkg install python
-★ git clone https://github.com/adithziva/seekerauto.git
+★ git clone https://github.com/adithziva/Blvckbox
 ★ ls
-★ cd seekerauto
+★ cd Blvckbox
 ★ ls
-★ bash seekerauto.sh
+★ bash box
+★ ls
+★ bash blvckbox
 ```
 </br>
 
