@@ -46,34 +46,6 @@
 </br>
 
 
-# TOOL'S
-____  _ __      _______ _  __  ____   ______   __
-          |  _ \| |\ \    / / ____| |/ / |  _ \ / __ \ \ / /
-          | |_) | | \ \  / / |    | ' /  | |_) | |  | \ V /
-          |  _ <| |  \ \/ /| |    |  <   |  _ <| |  | |> <
-          | |_) | |___\  / | |____| . \  | |_) | |__| / . \
-          |____/|______\/   \_____|_|\_\ |____/ \____/_/ \_\
-
-
-                          your dream comes true
-
-                LATEST TERMUX TOOL    [  BY : MR_ZIVA_  ]
-
-              [0] INSTALLED TOOLS WILL SHOW ON HOME [0]
-
- [01] Wifidos     [11] Hydra       [21] DeviantArt      [99] About
- [02] Infect      [12] Slowloris   [22] Badoo           [00] Exit
- [03] Seeker      [13] IP Tracer   [23] Origin
- [04] Ipdoner     [14] Easy-Hack   [24] CryptoCoin0m
- [05] Zphisher    [15] CamPhish    [25] Yahoo
- [06] HackerPro   [16] Sayhello    [26] Wordpress
- [07] Sqlmap      [17] Sigit       [27] Yandex
- [08] Nikto       [18] Insta-scrap [28] StackoverFlow
- [09] Tool-x      [19] Osi.ig      [29] Vk
- [10] FSOCIETY    [20] Shark       [30] XBOX
-
- [~] Select an option:
-
 ### SCREENSHOT
 <p align="center">
 <a href="http://github.com/adithziva"><img title="IMG" src="img/1.jpg" width="160"></a>
@@ -112,7 +84,32 @@ ____  _ __      _______ _  __  ____   ______   __
 [linkedin]: #
 [whatsapp]: #
 
+# TOOL'S
+           ____  _ __      _______ _  __  ____   ______   __
+          |  _ \| |\ \    / / ____| |/ / |  _ \ / __ \ \ / /
+          | |_) | | \ \  / / |    | ' /  | |_) | |  | \ V /
+          |  _ <| |  \ \/ /| |    |  <   |  _ <| |  | |> <
+          | |_) | |___\  / | |____| . \  | |_) | |__| / . \
+          |____/|______\/   \_____|_|\_\ |____/ \____/_/ \_\
 
+
+                          your dream comes true
+
+                LATEST TERMUX TOOL    [  BY : MR_ZIVA_  ]
+
+              [0] INSTALLED TOOLS WILL SHOW ON HOME [0]
+[01] Wifidos     [11] Hydra       [21] DeviantArt      [99] About
+[02] Infect      [12] Slowloris   [22] Badoo           [00] Exit
+[03] Seeker      [13] IP Tracer   [23] Origin
+[04] Ipdoner     [14] Easy-Hack   [24] CryptoCoin0m
+[05] Zphisher    [15] CamPhish    [25] Yahoo
+[06] HackerPro   [16] Sayhello    [26] Wordpress
+[07] Sqlmap      [17] Sigit       [27] Yandex
+[08] Nikto       [18] Insta-scrap [28] StackoverFlow
+[09] Tool-x      [19] Osi.ig      [29] Vk
+[10] FSOCIETY    [20] Shark       [30] XBOX
+
+[~] Select an option:
 
 ## WARNING : 
 
