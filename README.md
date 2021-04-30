@@ -1,6 +1,6 @@
 <h1 align="center">BLVCKBOX</h1>
 
-***•Looking forward to not wasting time. seeker automation***
+***•Looking forward to not wasting time.***
 
 
 <p align="center">
