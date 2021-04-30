@@ -12,7 +12,7 @@
 <a href="https://github.com/adithziva"><img title="Maintainence" src="https://img.shields.io/badge/updated%3F-yes-green.svg"></a>
 </p>
 
-![gif](imag/3.mp4)<br/>
+![gif](imag/3.gif)<br/>
 
 <p align="center">
 <a href="https://github.com/adithziva"><img title="Github" src="https://img.shields.io/badge/BLVCK-HACKER-brightgreen?style=for-the-badge&logo=github"></a>
