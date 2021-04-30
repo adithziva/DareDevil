@@ -54,7 +54,7 @@
 </P>
 
 ### TESTED ON
-<p align="center">TOOL ONLY WORK ON TERMUX..!</p>
+<p align="center">TOOL WORKING ON TERMUX..!</p>
 
 
 
