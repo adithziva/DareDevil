@@ -12,10 +12,8 @@
 <a href="https://github.com/adithziva"><img title="Maintainence" src="https://img.shields.io/badge/updated%3F-yes-green.svg"></a>
 </p>
 
-![gif](img/3.gif)<br/>
-
 <p align="center">
-<a href="http://github.com/adithziva"><img title="IMG" src="img/3.gif" width="200" height="200"></a>
+<a href="http://github.com/adithziva"><img title="IMG" src="img/3.gif" width="250" height="150"></a>
 <a href="http://github.com/adithziva"><img title="IMG" src="img/4.gif" width="120" height="80"></a>
 </p>
 
