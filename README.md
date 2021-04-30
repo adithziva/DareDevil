@@ -85,6 +85,12 @@
 [whatsapp]: #
 
 # TOOL'S
+## WARNING : 
+
+***This tool is only for educational purpose. If you use misuse this tool for other purposes. we will not be responsible for that cases.***
+
+# Usage
+
            ____  _ __      _______ _  __  ____   ______   __
           |  _ \| |\ \    / / ____| |/ / |  _ \ / __ \ \ / /
           | |_) | | \ \  / / |    | ' /  | |_) | |  | \ V /
@@ -96,8 +102,8 @@
                           your dream comes true
 
                 LATEST TERMUX TOOL    [  BY : MR_ZIVA_  ]
-
               [0] INSTALLED TOOLS WILL SHOW ON HOME [0]
+# Tool's
 [01] Wifidos     [11] Hydra       [21] DeviantArt      [99] About
 [02] Infect      [12] Slowloris   [22] Badoo           [00] Exit
 [03] Seeker      [13] IP Tracer   [23] Origin
@@ -110,8 +116,3 @@
 [10] FSOCIETY    [20] Shark       [30] XBOX
 
 [~] Select an option:
-
-## WARNING : 
-
-***This tool is only for educational purpose. If you use misuse this tool for other purposes. we will not be responsible for that cases.***
-
