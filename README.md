@@ -15,6 +15,7 @@
 ![gif](img/3.gif)<br/>
 
 <p align="center">
+<a href="http://github.com/adithziva"><img title="IMG" src="img/3.gif" width="200" height="200"></a>
 <a href="http://github.com/adithziva"><img title="IMG" src="img/4.gif" width="120" height="80"></a>
 </p>
 
