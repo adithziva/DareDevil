@@ -11,12 +11,9 @@
 <a href="https://github.com/adithziva"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://github.com/adithziva"><img title="Maintainence" src="https://img.shields.io/badge/updated%3F-yes-green.svg"></a>
 </p>
-<p align="center">
-<a href="http://github.com/adithziva"><img title="blvckbox" src="img/3.mp4"></a>
-<video src="img/3.mp4" controls>
-  Your browser does not support the video tag.
-</video>
-</p>
+
+![gif](imag/3.mp4)<br/>
+
 <p align="center">
 <a href="https://github.com/adithziva"><img title="Github" src="https://img.shields.io/badge/BLVCK-HACKER-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="YouTube" src="https://img.shields.io/badge/YouTube-BLVCK HACKER-red?style=for-the-badge&logo=Youtube"></a>
