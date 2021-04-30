@@ -15,6 +15,10 @@
 ![gif](img/3.gif)<br/>
 
 <p align="center">
+<a href="http://github.com/adithziva"><img title="IMG" src="img/3.mp4" width="160" height="160"></a>
+</p>
+
+<p align="center">
 <a href="https://github.com/adithziva"><img title="Github" src="https://img.shields.io/badge/BLVCK-HACKER-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="YouTube" src="https://img.shields.io/badge/YouTube-BLVCK HACKER-red?style=for-the-badge&logo=Youtube"></a>
 <a href="#"><img title="YouTube" src="https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp"></a>
@@ -45,7 +49,7 @@
 ### SCREENSHOT
 <p align="center">
 <a href="http://github.com/adithziva"><img title="IMG" src="img/1.jpg" width="160"></a>
-<a href="http://github.com/adithziva"><img title="IMG" src="img/2.jpg" width="160" height="160"></a>
+<a href="http://github.com/adithziva"><img title="IMG" src="img/3.mp4" width="160" height="160"></a>
 </P>
 
 ### TESTED ON
