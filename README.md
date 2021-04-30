@@ -28,7 +28,7 @@
 <a href="https://github.com/adithziva"><img title="Stars" src="https://img.shields.io/github/stars/adithziva/Blvckbox?color=red&style=flat-square"></a>
 <a href="https://github.com/adithziva"><img title="Forks" src="https://img.shields.io/github/forks/adithziva/Blvckbox?color=red&style=flat-square"></a>
 <a href="https://github.com/adithziva"><img title="Watching" src="https://img.shields.io/github/watchers/adithziva/Blvckbox?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/adithziva"><img title="Licence" src="https://img.shields.io/badge/NO-LICIENCE-blue.svg"></a>
+<a href="License"><img title="Licence" src="https://img.shields.io/badge/MIT-LICIENCE-blue.svg"></a>
 </p>
 
 
