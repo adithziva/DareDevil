@@ -67,6 +67,7 @@ elif [[ $menu_option == 2 || $menu_option == 02 ]]; then
 cd -- &>> start.log
 printf "                      \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING INFECT \e[0m\n"
 git clone https://github.com/noob-hackers/infect &>> start.log
+rm start.log
 printf "                     \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m INFECT WAS INSTALLED  \e[0m\n"
 sleep 4
 clear
@@ -76,6 +77,7 @@ elif [[ $menu_option == 3 || $menu_option == 03 ]]; then
 cd -- &>> start.log
 printf "                      \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING SEEKER \e[0m\n"
 git clone https://github.com/thewhiteh4t/seeker  &>> start.log
+rm start.log
 sleep 0.2
 printf "                     \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m SEEKER WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -87,6 +89,7 @@ elif [[ $menu_option == 4 || $menu_option == 04 ]]; then
 cd -- &>> start.log
 printf "                      \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING IPDRONE \e[0m\n"
 git clone https://github.com/noob-hackers/ipdrone &>> start.log
+rm start.log
 sleep 0.2
 printf "                     \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m IPDRONE WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -97,6 +100,7 @@ elif [[ $menu_option == 5 || $menu_option == 05 ]]; then
 cd -- &>> start.log
 printf "                      \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING ZPHISHER \e[0m\n"
 git clone https://github.com/htr-tech/zphisher &>> start.log
+rm start.log
 sleep 0.2
 printf "                     \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m ZPHISHER WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -107,6 +111,7 @@ elif [[ $menu_option == 6 || $menu_option == 06 ]]; then
 cd -- &>> start.log
 printf "                      \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING HACKERPRO \e[0m\n"
 git clone https://github.com/jaykali/hackerpro &>> start.log
+rm start.log
 sleep 0.2
 printf "                     \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m HACKERPRO WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -117,6 +122,7 @@ elif [[ $menu_option == 7 || $menu_option == 07 ]]; then
 cd -- &>> start.log
 printf "                      \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING SQLMAP...\e[0m\n"
 git clone https://github.com/sqlmapproject/sqlmap &>> start.log
+rm start.log
 sleep 0.2
 printf "                     \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m SQLMAP WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -127,6 +133,7 @@ elif [[ $menu_option == 8 || $menu_option == 08 ]]; then
 cd -- &>> start.log
 printf "                      \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING NIKTO...\e[0m\n"
 git clone https://github.com/sullo/nikto.git &>> start.log
+rm start.log
 sleep 0.2
 printf "                     \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m NIKTO WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -137,6 +144,7 @@ elif [[ $menu_option == 9 || $menu_option == 09 ]]; then
 cd -- &>> start.log
 printf "                      \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING TOOL-X...\e[0m\n"
 git clone https://github.com/Rajkumrdusad/Tool-X.git &>> start.log
+rm start.log
 sleep 0.2
 printf "                     \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m TOOL-X WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -147,6 +155,7 @@ elif [[ $menu_option == 10 ]]; then
 cd -- &>> start.log
 printf "                       \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING FSOCIETY...\e[0m\n"
 git clone https://github.com/Manisso/fsociety.git &>> start.log
+rm start.log
 sleep 0.2
 printf "                      \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m FSOCIETY WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -157,6 +166,7 @@ elif [[ $menu_option == 11 ]]; then
 cd -- &>> start.log
 printf "                       \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING HYDRA...\e[0m\n"
 git clone https://github.com/vanhauser-thc/thc-hydra &>> start.log
+rm start.log
 sleep 0.2
 printf "                      \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m HYDRA WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -167,6 +177,7 @@ elif [[ $menu_option == 12 ]]; then
 cd -- &>> start.log
 printf "                       \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING SLOWLORIS...\e[0m\n"
 git clone https://github.com/gkbrk/slowloris &>> start.log
+rm start.log
 sleep 0.2
 printf "                      \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m SLOWLORIS WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -177,6 +188,7 @@ elif [[ $menu_option == 13 ]]; then
 cd -- &>> start.log
 printf "                       \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING IP TRACER...\e[0m\n"
 git clone https://github.com/rajkumardusad/IP-Tracer.git &>> start.log
+rm start.log
 sleep 0.2
 printf "                      \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m IP TRACER WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -187,6 +199,7 @@ elif [[ $menu_option == 14 ]]; then
 cd -- &>> start.log
 printf "                       \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING EASY-HACK...\e[0m\n"
 git clone https://github.com/sabri-zaki/EasY_HaCk &>> start.log
+rm start.log
 sleep 0.2
 printf "                      \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m EASY-HACK WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -197,6 +210,7 @@ elif [[ $menu_option == 15 ]]; then
 cd -- &>> start.log
 printf "                       \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING CAMPHISH...\e[0m\n"
 git clone https://github.com/techchipnet/CamPhish &>> start.log
+rm start.log
 sleep 0.2
 printf "                      \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m CAMPHISH WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -207,6 +221,7 @@ elif [[ $menu_option == 16 ]]; then
 cd -- &>> start.log
 printf "                        \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING SAYHELLO...\e[0m\n"
 git clone https://github.com/d093w1z/sayhello &>> start.log
+rm start.log
 sleep 0.2
 printf "                       \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m SAYHELLO WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -217,6 +232,7 @@ elif [[ $menu_option == 17 ]]; then
 cd -- &>> start.log
 printf "                         \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING SIGIT...\e[0m\n"
 git clone https://github.com/termuxhackers-id/SIGIT &>> start.log
+rm start.log
 sleep 0.2
 printf "                       \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m SIGIT WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -227,6 +243,7 @@ elif [[ $menu_option == 18 ]]; then
 cd -- &>> start.log
 printf "                          \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING INSTA SCRAPER...\e[0m\n"
 git clone https://github.com/arc298/instagram-scraper &>> start.log
+rm start.log
 sleep 0.2
 printf "                       \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m INSTASCRAPER WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -237,6 +254,7 @@ elif [[ $menu_option == 19 ]]; then
 cd -- &>> start.log
 printf "                          \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING OSI.IG...\e[0m\n"
 git clone https://github.com/th3unkn0n/osi.ig &>> start.log
+rm start.log
 sleep 0.2
 printf "                        \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m OSI.IG WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -247,6 +265,7 @@ elif [[ $menu_option == 20 ]]; then
 cd -- &>> start.log
 printf "                          \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING SHARK...\e[0m\n"
 git clone https://github.com/Bhaviktutorials/shark &>> start.log
+rm start.log
 sleep 0.2
 printf "                        \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m SHARK WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -257,6 +276,7 @@ elif [[ $menu_option == 21 ]]; then
 cd -- &>> start.log
 printf "                          \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING M-WIZ...\e[0m\n"
 git clone https://github.com/noob-hackers/m-wiz &>> start.log
+rm start.log
 sleep 0.2
 printf "                        \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m M-WIZ WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -267,6 +287,7 @@ elif [[ $menu_option == 22 ]]; then
 cd -- &>> start.log
 printf "                          \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING LAZYBEE...\e[0m\n"
 git clone https://github.com/noob-hackers/lazybee &>> start.log
+rm start.log
 sleep 0.2
 printf "                        \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m LAZYBEE WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -277,6 +298,7 @@ elif [[ $menu_option == 23 ]]; then
 cd -- &>> start.log
 printf "                          \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING MR PHISH...\e[0m\n"
 git clone https://github.com/noob-hackers/mrphish &>> start.log 
+rm start.log
 sleep 0.2
 printf "                        \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m MR PHISH WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -287,6 +309,7 @@ elif [[ $menu_option == 24 ]]; then
 cd -- &>> start.log
 printf "                          \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING DARK FLY...\e[0m\n"
 git clone https://github.com/Ranginang67/DarkFly-Tool &>> start.log
+rm start.log
 sleep 0.2
 printf "                        \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m DARK FLY WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -297,6 +320,7 @@ elif [[ $menu_option == 25 ]]; then
 cd -- &>> start.log
 printf "                          \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING ONEX...\e[0m\n"
 git clone https://github.com/rajkumardusad/onex &>> start.log
+rm start.log
 sleep 0.2
 printf "                        \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m ONEX WAS INSTALLED  \e[0m\n" 
 sleep 4
@@ -307,6 +331,7 @@ elif [[ $menu_option == 26 ]]; then
 cd -- &>> start.log
 printf "                          \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING ADMIN PANEL FINDER...\e[0m\n"
 git clone https://github.com/alexhacker313/Admin-Panel-Finder &>> start.log
+rm start.log
 sleep 0.2
 printf "                        \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m ADMIN PANEL FINDER WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -317,6 +342,7 @@ elif [[ $menu_option == 27 ]]; then
 cd -- &>> start.log
 printf "                          \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING T-LOAD...  \e[0m\n"
 git clone https://github.com/noob-hackers/T-LOAD &>> start.log
+rm start.log
 sleep 0.2
 printf "                        \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m T-LOAD WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -327,6 +353,7 @@ elif [[ $menu_option == 28 ]]; then
 cd -- &>> start.log
 printf "                          \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING FOTOSPLOIT...  \e[0m\n"
 git clone https://github.com/Cesar-Hack-Gray/FotoSploit &>> start.log
+rm start.log
 sleep 0.2
 printf "                        \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m FOTOSPLOIT WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -337,6 +364,7 @@ elif [[ $menu_option == 29 ]]; then
 cd -- &>> start.log
 printf "                          \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING LAZYSCRIPT...  \e[0m\n"
 git clone https://github.com/TechnicalMujeeb/Termux-Lazyscript &>> start.log
+rm start.log
 sleep 0.2
 printf "                        \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m LAZYSCRIPT WAS INSTALLED  \e[0m\n"
 sleep 4
@@ -347,6 +375,7 @@ elif [[ $menu_option == 30 ]]; then
 cd -- &>> start.log
 printf "                          \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING TERMUX-STYLE...  \e[0m\n"
 git clone https://github.com/adi1090x/termux-style &>> start.log
+rm start.log
 sleep 0.2
 printf "                        \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m TERMUX-STYLE WAS INSTALLED  \e[0m\n"
 sleep 4
