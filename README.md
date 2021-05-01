@@ -46,6 +46,10 @@
 ```
 </br>
 
+### SINGLE LINE CLONE
+``` 
+pkg update -y && pkg upgrade -y &&  pkg install ruby -y &&  git clone https://github.com/adithziva/Blvckbox &&  cd Blvckbox &&  bash box && bash blvckbox 
+```
 
 ### SCREENSHOT
 <p align="center">
