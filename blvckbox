@@ -10,7 +10,7 @@ user_interrupt(){
         sleep 2
         banner
         printf "\e[0m\n"
-        printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m  \e[1;44m Visit https://github.com/adithziva \e[0m\n"
+        printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m\e[1;44m Visit https://github.com/adithziva\e[0m\n"
         printf "\e[0m\n"
         exit 1
 }
