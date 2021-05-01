@@ -67,7 +67,7 @@
 <a href="https://instagram.com/mr_ziva_"><img title="instagram" src="https://img.shields.io/badge/MY%20-INSTAGRAM-orange"></a>
 </p>
 
-### Connect with me:
+### FIND ME ON:
 
 [<img align="left" alt="blvcksec.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ziva | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
