@@ -59,15 +59,13 @@
 
 
 <h2 align="center">OWNER</h2>
-<p align="center">For more information contact on</p>
+<p align="center">FOR MORE INFORMATION CONTACT ME</p>
 
 
 <p align="center">
 <a href="https://blvcksec.ml"><img title="website" src="https://img.shields.io/badge/MY%20-Website-brightgreen"></a>
 <a href="https://instagram.com/mr_ziva_"><img title="instagram" src="https://img.shields.io/badge/MY%20-INSTAGRAM-orange"></a>
 </p>
-
-<h2 align="center">SOCIAL MEDIA</h2>
 
 ### Connect with me:
 
