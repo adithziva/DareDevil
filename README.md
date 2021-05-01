@@ -80,8 +80,8 @@
 [website]: http://blvcksec.ml
 [twitter]: https://twitter.com/adithziva?s=09
 [instagram]: https://instagram.com/mr_ziva_
-[linkedin]: #
-[whatsapp]: #
+[linkedin]: https://www.linkedin.com/in/adith-ziva-ba3194211
+[whatsapp]: https://wa.me/+916282943771
 
 ## WARNING : 
 
