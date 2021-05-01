@@ -57,6 +57,7 @@ cd -- &>> start.log
 printf "                      \e[0m\e[1;35m [\e[1;97m~\e[1;35m]\e[1;93m CLONING NEXPHISHHER \e[0m\n"
 sleep 0.3
 git clone https://github.com/htr-tech/nexphisher &>> start.log
+rm start.log
 printf "                    \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m NEXPHISHER WAS INSTALLED  \e[0m\n"
 sleep 4
 clear 
