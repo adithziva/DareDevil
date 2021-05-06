@@ -52,8 +52,7 @@ if [ $choice = 'e' ] ; then
 clear
 banner
 echo -e "                           $b SEE YOU LATER"
-exit
-cd --
+cd $HOME
 elif [ $choice = 'n' ] ; then
 clear
 banner
