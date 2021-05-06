@@ -199,7 +199,8 @@ rm start.log
 sleep 0.2
 printf "                      \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m SLOWLORIS WAS INSTALLED  \e[0m\n"
 sleep 4
-banner                                                                                                    menu
+banner                                                                                                    
+menu
 choise
 elif [[ $menu_option == 13 ]]; then
 cd -- &>> start.log
