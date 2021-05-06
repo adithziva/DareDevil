@@ -1,8 +1,8 @@
 #!/bin/bash
 # don't copy and paste my tool
 # be gud one
-#  by adithziva
-#  colours 
+# coded by adithziva
+# colours 
 #------------------------
 a="\033[1;32m"
 b="\033[1;31m"
@@ -53,6 +53,7 @@ clear
 banner
 echo -e "                           $b SEE YOU LATER"
 exit
+cd --
 elif [ $choice = 'n' ] ; then
 clear
 banner
