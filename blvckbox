@@ -30,6 +30,27 @@ user_interrupt(){
 }
 
 
+pck() {
+echo ""
+echo ""
+clear
+sleep 1
+echo -e "$e          :::::::::  :::      :::     :::  ::::::::  :::    :::"
+echo -e "$b          :+:    :+: :+:      :+:     :+: :+:    :+: :+:   :+:"
+echo -e "$e          +:+    +:+ +:+      +:+     +:+ +:+        +:+  +:+"
+echo -e "$e          +#++:++#+  +#+      +#+     +:+ +#+        +#++:++"
+echo -e "$e          +#+    +#+ +#+       +#+   +#+  +#+        +#+  +#+"
+echo -e "$b          #+#    #+# #+#        #+#+#+#   #+#    #+# #+#   #+#"
+echo -e "$e          #########  ##########   ###      ########  ###    ###"
+echo ""
+echo ""
+pk="           $g PLEASE INSTALL PACKAGES :-).$e TYPE"
+p="$i bash box \n"
+command -v ruby > /dev/null 2>&1 || { printf " $pk $p \n"; exit 1; }
+command -v gem > /dev/null 2>&1 || { printf " $pk $p \n"; exit 1; }
+command -v figlet > /dev/null 2>&1 || { printf " $pk $p \n"; exit 1; }
+command -v lolcat > /dev/null 2>&1 || { printf " $pk $p \n"; exit 1; }
+}
 
 
 banner() {
@@ -199,7 +220,7 @@ rm start.log
 sleep 0.2
 printf "                      \e[0m\e[1;32m [\e[1;97m~\e[1;32m]\e[1;93m SLOWLORIS WAS INSTALLED  \e[0m\n"
 sleep 4
-banner                                                                                                    
+banner
 menu
 choise
 elif [[ $menu_option == 13 ]]; then
@@ -445,6 +466,6 @@ menu
 fi
 }
 
-
+pck
 banner
 menu
