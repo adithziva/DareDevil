@@ -31,20 +31,8 @@ user_interrupt(){
 
 
 pck() {
-echo ""
-echo ""
-clear
 sleep 1
-echo -e "$e          :::::::::  :::      :::     :::  ::::::::  :::    :::"
-echo -e "$b          :+:    :+: :+:      :+:     :+: :+:    :+: :+:   :+:"
-echo -e "$e          +:+    +:+ +:+      +:+     +:+ +:+        +:+  +:+"
-echo -e "$e          +#++:++#+  +#+      +#+     +:+ +#+        +#++:++"
-echo -e "$e          +#+    +#+ +#+       +#+   +#+  +#+        +#+  +#+"
-echo -e "$b          #+#    #+# #+#        #+#+#+#   #+#    #+# #+#   #+#"
-echo -e "$e          #########  ##########   ###      ########  ###    ###"
-echo ""
-echo ""
-pk="           $g PLEASE INSTALL PACKAGES :-).$e TYPE"
+pk="            $g PLEASE INSTALL PACKAGES :-).$e TYPE"
 p="$i bash box \n"
 command -v ruby > /dev/null 2>&1 || { printf " $pk $p \n"; exit 1; }
 command -v gem > /dev/null 2>&1 || { printf " $pk $p \n"; exit 1; }
@@ -87,7 +75,6 @@ fi
 }
 
 menu() {
-
 printf "               \e[0m\e[1;32m[0] INSTALLED TOOLS WILL SHOW ON HOME [0]\e[0m\n"
 printf "\e[0m\n"
 printf " \e[1;32m[\e[0m\e[1;77m01\e[0m\e[1;32m]\e[0m\e[1;31m Nexphisher  \e[0m\e[1;32m[\e[0m\e[1;77m11\e[0m\e[1;32m]\e[0m\e[1;93m Hydra       \e[0m\e[1;32m[\e[0m\e[1;77m21\e[0m\e[1;32m]\e[0m\e[1;31m M-WIZ       	\e[0m\e[1;32m[\e[0m\e[1;77m99\e[0m\e[1;32m]\e[0m\e[1;93m About\e[0m\n"
@@ -466,6 +453,6 @@ menu
 fi
 }
 
-pck
 banner
+pck
 menu
