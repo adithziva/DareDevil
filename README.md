@@ -53,7 +53,7 @@ pkg update -y && pkg upgrade -y &&  pkg install ruby -y &&  git clone https://gi
 
 ### SCREENVIEW
 <p align="center">
-<a href="http://github.com/adithziva"><img title="IMG" src="img/8.gif"></a>
+<a href="http://github.com/adithziva"><img title="IMG" src="img/18.gif"></a>
 </P>
 
 ### TESTED ON
