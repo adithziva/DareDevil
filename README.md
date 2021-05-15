@@ -53,8 +53,10 @@ pkg update -y && pkg upgrade -y &&  pkg install ruby -y &&  git clone https://gi
 
 ### SCREENVIEW
 <p align="center">
-<a href="http://github.com/adithziva"><img title="IMG" src="img/19.gif"></a>
+<a href="http://github.com/adithziva"><img title="IMG" src="img/19.gi"></a>
 </P>
+
+![Demo](img/16.gi)
 
 ### TESTED ON
 <p align="center">TOOL WORKING ON TERMUX..!</p>
