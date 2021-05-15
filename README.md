@@ -72,19 +72,12 @@ pkg update -y && pkg upgrade -y &&  pkg install ruby -y &&  git clone https://gi
 
 ### LOOK UP ME ON:
 
-[<img align="left" alt="blvcksec.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ziva | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ziva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ziva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="ziva | whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-
-<br/>
-
-[website]: http://blvcksec.ml
-[twitter]: https://twitter.com/adithziva?s=09
-[instagram]: https://instagram.com/mr_ziva_
-[linkedin]: https://www.linkedin.com/in/adith-ziva-ba3194211
-[whatsapp]: https://wa.me/
+<p align="center">
+<a href="https://wa.me/"><img title="IMG" src="img/1.gif" width="30" height="30"></a>
+<a href="https://instagram.com/mr_ziva_"><img title="IMG" src="img/2.gif" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/adith-ziva-ba3194211"><img title="IMG" src="img/6.gif" width="30" height="30"></a>
+<a href="http://blvcksec.ml"><img title="IMG" src="img/8.gif" width="30" height="30"></a>
+</p>
 
 ## WARNING : 
 
