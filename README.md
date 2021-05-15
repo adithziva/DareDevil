@@ -74,9 +74,9 @@ pkg update -y && pkg upgrade -y &&  pkg install ruby -y &&  git clone https://gi
 
 <p align="center">
 <a href="https://wa.me/"><img title="IMG" src="https://raw.githubusercontent.com/adithziva/adithziva/main/img/1.gif" width="30" height="30"></a>
-<a href="https://instagram.com/mr_ziva_"><img title="IMG" src="img/2.gif" width="30" height="30"></a>
-<a href="https://www.linkedin.com/in/adith-ziva-ba3194211"><img title="IMG" src="img/6.gif" width="30" height="30"></a>
-<a href="http://blvcksec.ml"><img title="IMG" src="img/8.gif" width="30" height="30"></a>
+<a href="https://instagram.com/mr_ziva_"><img title="IMG" src="https://raw.githubusercontent.com/adithziva/adithziva/main/img/2.gif" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/adith-ziva-ba3194211"><img title="IMG" src="https://raw.githubusercontent.com/adithziva/adithziva/main/img/6.gif" width="30" height="30"></a>
+<a href="http://blvcksec.ml"><img title="IMG" src="https://raw.githubusercontent.com/adithziva/adithziva/main/img/8.gif" width="30" height="30"></a>
 </p>
 
 ## WARNING : 
