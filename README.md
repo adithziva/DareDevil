@@ -6,7 +6,7 @@
 
 <h1 align="center">
  इंडिया
-<img src="https://github.com/adithziva/adithziva/imgs/in2.gif" width="10%" ></h1>
+<img src="img/in2.gif" width="10%" ></h1>
 
 <p align="center">
 <a href="https://github.com/adithziva"><img title="Made in kerala" src="https://img.shields.io/badge/TOOL-BOX-green"></a>
