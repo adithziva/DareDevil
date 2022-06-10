@@ -51,11 +51,9 @@ pkg update -y && pkg upgrade -y &&  pkg install ruby -y &&  git clone https://gi
 
 ### SCREENVIEW
 <p align="center">
-<a href="http://github.com/adithziva"><img title="IMG" src="img/55.gif"></a>
+<a href="http://github.com/adithziva"><img title="IMG" src="img/GIF-220610_164216.gif"></a>
 </P>
 
-### TESTED ON
-<p align="center">TOOL WORKING ON TERMUX..!</p>
 
 
 
@@ -64,21 +62,8 @@ pkg update -y && pkg upgrade -y &&  pkg install ruby -y &&  git clone https://gi
 
 
 <p align="center">
-<a href="https://blvcksec.ml"><img title="website" src="https://img.shields.io/badge/MY%20-Website-brightgreen"></a>
-<a href="https://instagram.com/mr_ziva_"><img title="instagram" src="https://img.shields.io/badge/MY%20-INSTAGRAM-orange"></a>
-</p>
-
-### LOOK UP ME ON:
-
-<p align="center">
-<a href="https://wa.me/"><img title="IMG" src="https://raw.githubusercontent.com/adithziva/adithziva/main/img/1.gif" width="30" height="30"></a>
-<a href="https://instagram.com/mr_ziva_"><img title="IMG" src="https://raw.githubusercontent.com/adithziva/adithziva/main/img/2.gif" width="30" height="30"></a>
-<a href="https://www.linkedin.com/in/adith-ziva-ba3194211"><img title="IMG" src="https://raw.githubusercontent.com/adithziva/adithziva/main/img/6.gif" width="30" height="30"></a>
-<a href="http://blvcksec.ml"><img title="IMG" src="https://raw.githubusercontent.com/adithziva/adithziva/main/img/8.gif" width="30" height="30"></a>
+<a href="https://telegram.me/+916282943771"><img title="instagram" src="https://img.shields.io/badge/MY%20-TELEGRAM-orange"></a>
 </p>
 
 ## WARNING : 
-
 ***This tool is only for educational purpose. If you use misuse this tool for other purposes. we will not be responsible for that cases.***
-
-# Interface
