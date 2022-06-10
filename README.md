@@ -38,17 +38,17 @@
  pkg install ruby -y
  git clone https://github.com/adithziva/Blvckbox
  ls
- cd Blvckbox
+ cd ROSYBEATED
  ls
- bash box
+ bash BEATED.sh
  ls
- bash blvckbox
+ bash ROSY
 ```
 </br>
 
 ### SINGLE LINE CLONE
 ``` 
-pkg update -y && pkg upgrade -y &&  pkg install ruby -y &&  git clone https://github.com/adithziva/Blvckbox &&  cd Blvckbox &&  bash box && bash blvckbox 
+pkg update -y && pkg upgrade -y &&  pkg install ruby -y &&  git clone https://github.com/adithziva/ROSY-BEATED &&  cd ROSYBEATED &&  bash BEATED.sh && bash ROSY
 ```
 
 ### SCREENVIEW
@@ -84,16 +84,3 @@ pkg update -y && pkg upgrade -y &&  pkg install ruby -y &&  git clone https://gi
 ***This tool is only for educational purpose. If you use misuse this tool for other purposes. we will not be responsible for that cases.***
 
 # Interface
-
-           ____  _ __      _______ _  __  ____   ______   __
-          |  _ \| |\ \    / / ____| |/ / |  _ \ / __ \ \ / /
-          | |_) | | \ \  / / |    | ' /  | |_) | |  | \ V /
-          |  _ <| |  \ \/ /| |    |  <   |  _ <| |  | |> <
-          | |_) | |___\  / | |____| . \  | |_) | |__| / . \
-          |____/|______\/   \_____|_|\_\ |____/ \____/_/ \_\
-
-
-                          your dream comes true
-
-                LATEST TERMUX TOOL    [  BY : MR_ZIVA_  ]
-  
