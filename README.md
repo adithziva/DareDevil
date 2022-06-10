@@ -3,9 +3,11 @@
 ***Looking forward to not wasting time.I know your looking for new termux tool's. Yikes,What are you waiting for. Just clone Blvckbox all in one toolkit. 30 tool's in one click...***
 
 
-<p align="center">
-<a href="https://github.com/adithziva"><img title="Made in kerala" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-</p>
+
+<h1 align="center">
+ इंडिया
+<img src="adithziva/img/in2.gif" width="10%" ></h1>
+
 <p align="center">
 <a href="https://github.com/adithziva"><img title="Made in kerala" src="https://img.shields.io/badge/TOOL-BOX-green"></a>
 <a href="https://github.com/adithziva"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
