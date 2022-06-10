@@ -62,7 +62,7 @@ pkg update -y && pkg upgrade -y &&  pkg install ruby -y &&  git clone https://gi
 
 
 <p align="center">
-<a href="https://telegram.me/+916282943771"><img title="instagram" src="https://img.shields.io/badge/MY%20-TELEGRAM-orange"></a>
+<a href="https://telegram.me/adithziva"><img title="instagram" src="https://img.shields.io/badge/MY%20-TELEGRAM-orange"></a>
 </p>
 
 ## WARNING : 
