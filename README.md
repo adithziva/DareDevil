@@ -16,7 +16,6 @@
 
 <p align="center">
 <a href="http://github.com/adithziva"><img title="IMG" src="img/GIF-220610_155805.gif"></a>
-<a href="http://github.com/adithziva"><img title="IMG" src="img/GIF-220610_160906.gif"></a>
 </p>
 
 
@@ -26,7 +25,7 @@
 <a href="https://github.com/adithziva"><img title="Stars" src="https://img.shields.io/github/stars/adithziva/ROSY-BEATED?color=red&style=flat-square"></a>
 <a href="https://github.com/adithziva"><img title="Forks" src="https://img.shields.io/github/forks/adithziva/ROSY-BEATED?color=red&style=flat-square"></a>
 <a href="https://github.com/adithziva"><img title="Watching" src="https://img.shields.io/github/watchers/adithziva/ROSY-BEATED?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/adithziva/ROCY-BEATED/blob/main/LICENSE"><img title="Licence" src="https://img.shields.io/badge/MIT-LICIENCE-blue.svg"></a>
+<a href="https://github.com/adithziva/repo-cloner/blob/main/LICENSE"><img title="Licence" src="https://img.shields.io/badge/MIT-LICIENCE-blue.svg"></a>
 </p>
 
 
@@ -34,7 +33,7 @@
 ```
  pkg update -y && pkg upgrade -y
  pkg install ruby -y
- git clone https://github.com/adithziva/ROCY-BEATED
+ git clone https://github.com/adithziva/repo-cloner
  ls
  cd ROSYBEATED
  ls
@@ -46,7 +45,7 @@
 
 ### SINGLE LINE CLONE
 ``` 
-pkg update -y && pkg upgrade -y &&  pkg install ruby -y &&  git clone https://github.com/adithziva/ROSY-BEATED &&  cd ROSYBEATED &&  bash BEATED.sh && bash ROSY
+pkg update -y && pkg upgrade -y &&  pkg install ruby -y &&  git clone https://github.com/adithziva/repo-cloner &&  cd ROSYBEATED &&  bash BEATED.sh && bash ROSY
 ```
 
 ### SCREENVIEW
