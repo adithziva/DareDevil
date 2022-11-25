@@ -1,6 +1,6 @@
-<h1 align="center">REPO-CLONER</h1>
+<h1 align="center">DareDevil</h1>
 
-***I know your looking for new termux tool's.Just clone ROSY all in one toolkit. 30 tool's With different capabilities in one click.(Tool for termux)***
+***I know your looking for new termux tool's.Just clone DareDevil all in one toolkit. 30 tool's With different capabilities in one click.(Tool for termux)***
 
 
 
@@ -35,7 +35,7 @@
  pkg install ruby -y
  git clone https://github.com/adithziva/repo-cloner
  ls
- cd ROSYBEATED
+ cd DareDevil
  ls
  bash BEATED.sh
  ls
