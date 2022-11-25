@@ -1,4 +1,4 @@
-<h1 align="center">ROSY BEATED</h1>
+<h1 align="center">REPO-CLONER</h1>
 
 ***I know your looking for new termux tool's.Just clone ROSY all in one toolkit. 30 tool's With different capabilities in one click.(Tool for termux)***
 
